@@ -22,7 +22,9 @@ function Banner() {
         <h5>
             PLan a difference a different kind of gateway to uncover the hidden gems near you.
         </h5>
-        <Button variant ="outlined">Explore Nearby</Button>
+        <Button onClick={() => setShowSearch(!showSearch)} className='banner__searchButton' variant='outlined'>
+                    {showSearch ? "Hide" : "Search Dates"}
+                </Button>
 
 
     </div>
