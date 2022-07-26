@@ -4,7 +4,7 @@ import  image from "./airbnb.jpeg"
 import SearchIcon from '@mui/icons-material/Search';
 import "./Home.css"
 import "./Header.css"
-import { Expand } from "@mui/icons-material";
+// import { Expand } from "@mui/icons-material";
 import { Avatar } from "@mui/material";
 import LanguageIcon from '@mui/icons-material/Language';
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
