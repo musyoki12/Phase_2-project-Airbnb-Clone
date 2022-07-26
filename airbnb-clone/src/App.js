@@ -5,6 +5,7 @@ import Header from './Header';
 
 function App() {
   return (
+    //Bem
     <div className='app'>
       {/* <h1>Let's build AIRBNB clone</h1> */}
       <Header/>

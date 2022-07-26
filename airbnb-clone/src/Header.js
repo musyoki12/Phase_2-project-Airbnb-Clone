@@ -6,11 +6,13 @@ import "./Home.css"
 function Header(){
     return(
     <div className='header'>
-        <img src={image} alt="hello" />
+        <img 
+        className ="header_icon"
+        src={image} alt="hello" />
     </div>
     )
 }
 
 
 
-export default Header
+export default Header 
