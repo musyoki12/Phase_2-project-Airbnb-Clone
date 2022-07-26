@@ -1,7 +1,7 @@
 import { Button } from '@mui/material';
 import React ,{useState}from 'react'
 import "./Banner.css"
-
+import Search from './Search.js';
 // import { Button } from "@material-ui/core";
 
 
