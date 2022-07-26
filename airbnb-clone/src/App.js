@@ -3,27 +3,21 @@ import './App.css';
 import Home from './Home'
 import Header from './Header';
 import Footer from './Footer';
+import {BrowserRouter as Router,Switch,Route} from "react-router-dom";
+
 
 function App() {
   return (
     //Bem
     <div className='app'>
-      {/* <h1>Let's build AIRBNB clone</h1> */}
+    <Router>
       <Header/>
+
       <Home/>
+      
       <Footer/>
-      {/* {home} */}
-      {/* {header */}
-
-      {/* {banner} */}
-      {/* {search} */}
-
-      {/* {cards}
-
-      {footer} */}
-
-      {/* {searchpage} */}
-
+    
+      </Router>
     </div>
 
    );
