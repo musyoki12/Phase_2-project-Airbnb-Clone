@@ -33,13 +33,15 @@ About
 A web application for entrepreneurs to launch their own rentals to marketplace platform faster into the market and enable users or client to view them easily
 
 Author
-Ndinda Bryan
+Musyoki
 
 Live Link
 The application can be accessed using musyoki12.github.io/airbnb-clone/
 
 Technologies Used
-HTML CSS ReactJS
+HTML 
+CSS 
+ReactJS
 
 License
 MIT LIcense Copyright (C) Ndinda Brian
