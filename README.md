@@ -1,47 +1,28 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-About
-A web application for entrepreneurs to launch their own rentals to marketplace platform faster into the market and enable users or client to view them easily
+Airbnb clone
+Airbnb clone is a application for displaying airbnbs
 
 Author
-Musyoki
+Brian Musyoki
 
+Project Description
+A web application for entrepreneurs to launch their own rentals to marketplace platform faster into the market and enable users or client to view them easily
+
+Setup
+Running the application will require one to run npm start ##The base URL for the API: https://nameless-fortress-22217.herokuapp.com/menu. The updates to the API are evident in the API:https://frozen-spire-09426.herokuapp.com/airbnbs.
+
+Getting Started
+To run this application, the steps to be taken are:
+
+Installing the needed dependencies through npm install
+To Run the application on the browser, run npm start on the terminal.
 Live Link
-The application can be accessed using musyoki12.github.io/airbnb-clone/
+The application can be accessed using https://rose-maina.github.io/food-ordering-application/
 
 Technologies Used
-HTML 
-CSS 
+HTML
+CSS
 ReactJS
-
+Bootstrap
 License
-MIT LIcense Copyright (C) Ndinda Brian
+MIT LIcense Copyright (C) Brian Musyoki
+
