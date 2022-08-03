@@ -44,7 +44,7 @@ return (
             <br/>
             <br/>
 <div className='header_center'>
-<input type="text" onChange={handleChange}placeholder="Type here " style={{
+<input type="text" onChange={handleChange}placeholder="Type here to search " style={{
     width: '100%',
     alignItems: 'center',
         margin: '0 auto',
