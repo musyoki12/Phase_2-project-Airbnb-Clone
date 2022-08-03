@@ -43,6 +43,7 @@ return (
             <Banner />
             <br/>
             <br/>
+            <br/>
 <div className='header_center'>
 <input type="text" onChange={handleChange}placeholder="Type here to search " style={{
     width: '100%',
