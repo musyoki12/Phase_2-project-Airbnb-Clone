@@ -6,7 +6,7 @@ import SearchResult from "./SearchResult";
 function SearchPage() {
   return (
     <div className="searchPage">
-        <h1>I am the search page</h1>
+        <h1>Feel At Home</h1>
         <div className='searchPage__info'>
                 <p>62 stays · 26 august to 30 august · 2 guest</p>
                 <h1>Stays nearby</h1>
