@@ -16,7 +16,7 @@ To run this application, the steps to be taken are:
 Installing the needed dependencies through npm install
 To Run the application on the browser, run npm start on the terminal.
 Live Link
-The application can be accessed using 
+The application can be accessed using musyoki12.github.io/airbnb-clone/
 
 Technologies Used
 HTML
